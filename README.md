@@ -17,7 +17,7 @@ git push origin master
 
 git clone https://github.com/MykhailoKutsyk/testRepo.git   //add to local folder 
 
-new Branch work
+new Branch work rules
 
 git branch // check in which branch You are
 
