@@ -1,6 +1,6 @@
 #test Repo
 
-git BANANA   //initialize git in folder
+git init   //initialize git in folder
 
 git remote add origin https://github.com/MykhailoKutsyk/testRepo.git
 
