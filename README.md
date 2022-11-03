@@ -28,3 +28,5 @@ git checkout nameOfBranch // change branch
 git checkout -b fix2   //create locally new branch "fix2" and switch to it
 
 git branch  fix3   // create locally new branch "fix3"
+
+git pull origin master   //update local file from remote
