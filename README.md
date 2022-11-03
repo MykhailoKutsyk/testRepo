@@ -1,6 +1,6 @@
 #test Repo
 
-git init
+git init   //initialize git in folder
 
 git remote add origin https://github.com/MykhailoKutsyk/testRepo.git
 
